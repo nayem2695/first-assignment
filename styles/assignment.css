@@ -8,4 +8,266 @@
     background-image: url("../images/banner/banner3.png");
     background-size: cover;
     background-repeat: no-repeat;
+    display:;
+}
+.banner-title{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 1210px;
+    top: 216px;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+
+    text-align: right;
+    color:white;
+
+    
+}
+.banner-description{
+    position: absolute;
+width: 494px;
+height: 78px;
+left: 1236px;
+top: 468px;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+
+text-align: right;
+color:white;
+}
+.btn-primary{
+    position: absolute;
+    width: 160px;
+    height: 61px;
+    left: 1574px;
+    top: 593px;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 24px;
+    text-align: center;
+    color: #005FAC;
+}
+ 
+.secret-pic{
+    position: absolute;
+    width: 569px;
+    height: 723.3px;
+    left: 300px;
+    top: 968px;
+}
+.secret-title{
+    position: absolute;
+width: 288px;
+height: 94px;
+left: 1200px;
+top: 1178px;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+}
+.secret-description{
+    position: absolute;
+    width: 416px;
+    height: 104px;
+    left: 1200px;
+    top: 1296px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+.secret-hacks{
+    position: absolute;
+    width: 349px;
+    height: 162px;
+    left: 1200px;
+    top: 1416px; 
+}
+myplans{
+position: absolute;
+width: 1141px;
+height: 299.96px;
+left: 230px;
+top: 1792.3px;
+}
+.section-title{
+        position: absolute;
+    width: 179px;
+    height: 47px;
+    left: 900px;
+    top: 1792.3px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+}
+.web-pic{
+    position: absolute;
+    width: 92.96px;
+    height: 92.96px;
+    left: 440px;
+    top: 1892px;
+       
+}
+.web-heading{
+    position: absolute;
+    width: 270px;
+    height: 35px;
+    left: 350px;
+    top: 2004px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+}
+.web-sub-heading{
+    position: absolute;
+    width: 177px;
+    height: 29px;
+    left: 400px;
+    top: 2056.26px;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+
+}
+.java-pic{
+    position: absolute;
+    width: 92.96px;
+    height: 92.96px;
+    left: 746px;
+    top: 1895px;
+}
+.java-heading{
+    position: absolute;
+    width: 156px;
+    height: 35px;
+    left: 709px;
+    top: 2006.3px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+
+    color: #151414;
+}
+.java-sub-heading{
+    position: absolute;
+    width: 181px;
+    height: 29px;
+    left: 695px;
+    top: 2057.3px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+    
+}
+.smoking-pic{
+    position: absolute;
+    width: 93px;
+    height: 93px;
+    left: 1109px;
+    top: 1889.3px;
+}
+.smoking-heading{
+    position: absolute;
+    width: 218px;
+    height: 35px;
+    left: 1050px;
+    top: 2006.3px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+    
+}
+.snoking-sub-heading{
+    position: absolute;
+    width: 164px;
+    height: 29px;
+    left: 1079px;
+    top: 2057.3px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+    
+}
+.ecommerce-pic{
+    position: absolute;
+    width: 92.96px;
+    height: 92.96px;
+    left: 1411px;
+    top: 1889.3px;
+}
+.ecommerce-heading{
+    position: absolute;
+    width: 174px;
+    height: 35px;
+    left: 1386px;
+    top: 2006.3px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+}
+.ecommerce-sub-heading{
+    position: absolute;
+    height: 29px;
+    left: 1390px;
+    top: 2057.3px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+}
+.positive{
+    position: absolute;
+width: 1140px;
+height: 300px;
+left: 410px;
+top: 2225px;
+
+background: url('/images/watch.png');
+border-radius: 8px;
+    
+}
+.keep{
+    position: absolute;
+    width: 459px;
+    height: 182px;
+    left: 294px;
+    top: 90px;
+    color: white; 
+}
+.call-now{
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 294px;
+    top: 150px;
+    color:orangered
 }
