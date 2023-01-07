@@ -8,7 +8,6 @@
     background-image: url("../images/banner/banner3.png");
     background-size: cover;
     background-repeat: no-repeat;
-    display:;
 }
 .banner-title{
     position: absolute;
@@ -244,30 +243,91 @@ top: 1792.3px;
     text-align: center;
     color: #737272;
 }
-.positive{
-    position: absolute;
+.pic-positive{
+position: absolute;
 width: 1140px;
 height: 300px;
 left: 410px;
 top: 2225px;
-
-background: url('/images/watch.png');
-border-radius: 8px;
-    
+border-radius: 8px;  
 }
+
 .keep{
     position: absolute;
     width: 459px;
     height: 182px;
-    left: 294px;
-    top: 90px;
-    color: white; 
+    left: 550px;
+    top: 2320px;
+    color: white;
+    text-align: center; 
 }
 .call-now{
     position: absolute;
     width: 160px;
     height: 64px;
-    left: 294px;
-    top: 150px;
+    left: 600px;
+    top: 2400px;
     color:orangered
+}
+.footer-background{
+    position: absolute;
+    margin: 0 auto;
+width: 1700px;
+height: 577px;
+left: 100px;
+top:2600.26px;
+
+background: #151414;
+background-size: cover;
+background-repeat: no-repeat;
+height: 40vh;
+}
+.future-fotter{
+position: absolute;
+width: 148px;
+height: 53px;
+left: 300px;
+top: 100.26px;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+color: #F8F8F8;
+}
+.future-description{
+    position: absolute;
+    width: 485px;
+    height: 78px;
+    left: 300px;
+    top: 160.26px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+     color: #FFFFFF; 
+}
+.future-p{
+    position: absolute;
+width: 184px;
+height: 26px;
+left: 300px;
+top: 250.26px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #FFFFFF;
+}
+.future-call{
+    position: absolute;
+    width: 186px;
+    height: 26px;
+    left: 300px;
+    top: 300.26px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+    color: #FFFFFF;  
 }
